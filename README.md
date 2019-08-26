@@ -4,7 +4,7 @@ This is a basic Bootstrap 4 template.
 
 ## Getting Started
 
-This template has a minimal responsive navbar and animated hamburger icon for mobile version. You can use this template to start your HTML project quickly. More components will be added soon.
+This template has a minimal responsive navbar and animated hamburger icon for mobile version. Bootstrap files are added locally. You can use this template to start your HTML project quickly. More components will be added soon.
 
 ## Technologies used:
 
